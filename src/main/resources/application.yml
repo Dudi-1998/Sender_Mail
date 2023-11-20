@@ -1,0 +1,13 @@
+
+spring:
+  mail:
+    host: smtp.gmail.com
+    username: codewithray90@gmail.com
+    password: pzcl xdzq syfv ryoh
+    port: 587
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enable: true
+          auth: true
